@@ -1,2 +1,3 @@
-# profiles-rest-api
- Repository documeting studying basic Django Rest Framework principles.
+# Profiles Rest API
+
+Repository documeting studying basic Django Rest Framework principles.
